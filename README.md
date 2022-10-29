@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   [GitHub repo](https://github.com/darryncodes/fylo-dark-theme-landing-page)
+-   [Live URL](https://darryncodes.github.io/fylo-dark-theme-landing-page/)
 
 ## My process
 
